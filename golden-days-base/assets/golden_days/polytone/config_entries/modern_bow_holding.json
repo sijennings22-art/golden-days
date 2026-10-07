@@ -8,12 +8,12 @@
     "late_release": true
   },
   "tooltip_images": {
-    "true": {
+    "fasle": {
       "texture": "golden_days:preview/modern_bow_holding/enabled.png",
       "width": 160,
       "height": 80
     },
-    "false": {
+    "true": {
       "texture": "golden_days:preview/modern_bow_holding/disabled.png",
       "width": 160,
       "height": 80
